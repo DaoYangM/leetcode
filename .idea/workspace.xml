@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68ecb81c-a6ab-497b-b3e0-6b4df8418547" name="Default Changelist" comment="" />
+    <list default="true" id="68ecb81c-a6ab-497b-b3e0-6b4df8418547" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/CountPrimeSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumSpecialEquivGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumberOfBoomerangs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/Tree2Str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/tencent/FindMedianSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/AddDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/AddDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/BinaryAddOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/BinaryAddOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/CombinationTwoSortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/CombinationTwoSortLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/CommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/CommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/DelLinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/DelLinkedListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/DelRepeatEleFromSortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/DelRepeatEleFromSortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/GemAndStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/GemAndStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/KeyboardWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/KeyboardWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/LastWordLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/LastWordLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ListAddOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ListAddOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/MaxSubListSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/MaxSubListSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/NNodeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/NNodeTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumberOfLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumberOfLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ReversalImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ReversalImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ReverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ReverseInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ReverseWordsByWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ReverseWordsByWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/RomanNumToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/RomanNumToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/SelfDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/SelfDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ShortestToChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ShortestToChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/SortingArraysByParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/SortingArraysByParity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/Sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/SumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/SumOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/TheOnlyMorseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/TheOnlyMorseCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/TitleToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/TitleToNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ToLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ToLowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/Transpose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/TreeMaxDeepinLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/TreeMaxDeepinLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ValidBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ValidBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/WinNim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/daoyang/easy/WinNim.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,59 +64,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="660809832">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="2" />
-          <entry key="java" value="50" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="50" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="3" />
-          <entry key="iml" value="2" />
-          <entry key="java" value="9675" />
-          <entry key="xml" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="9675" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="XML" value="6" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode.iml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/Tree2Str.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            <state relative-caret-position="432">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/tencent/FindMedianSortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -110,14 +127,16 @@
         <option value="$PROJECT_DIR$/src/top/daoyang/easy/KeyboradWord.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/leetcode.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/easy/SortedArrayToBST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/easy/IsToeplitzMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/easy/CountPrimeSetBits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumSpecialEquivGroups.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumberOfBoomerangs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/easy/ShortestCompletingWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/easy/Tree2Str.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/daoyang/tencent/FindMedianSortedArrays.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -127,10 +146,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="241" />
-    <option name="y" value="15" />
-    <option name="width" value="1318" />
-    <option name="height" value="1018" />
+    <option name="x" value="346" />
+    <option name="y" value="2" />
+    <option name="width" value="1534" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -149,6 +171,36 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="daoyang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="daoyang" type="462c0819:PsiDirectoryNode" />
+              <item name="tencent" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -160,8 +212,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541469930712" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545521681039" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thinkInJava/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -178,9 +230,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KeyboradWord">
-    <configuration name="KeyboradWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.KeyboradWord" />
+  <component name="RunManager" selected="Application.FindMedianSortedArrays">
+    <configuration name="FindMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.tencent.FindMedianSortedArrays" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.daoyang.tencent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumSpecialEquivGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.NumSpecialEquivGroups" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -192,8 +257,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversalImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.ReversalImage" />
+    <configuration name="NumberOfBoomerangs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.NumberOfBoomerangs" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -205,8 +270,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelfDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.SelfDivisor" />
+    <configuration name="ShortestCompletingWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.ShortestCompletingWord" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -218,21 +283,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheOnlyMorseCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.TheOnlyMorseCode" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.daoyang.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WinNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.WinNim" />
+    <configuration name="Tree2Str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.daoyang.easy.Tree2Str" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -245,19 +297,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReversalImage" />
-      <item itemvalue="Application.TheOnlyMorseCode" />
-      <item itemvalue="Application.SelfDivisor" />
-      <item itemvalue="Application.WinNim" />
-      <item itemvalue="Application.KeyboradWord" />
+      <item itemvalue="Application.NumSpecialEquivGroups" />
+      <item itemvalue="Application.NumberOfBoomerangs" />
+      <item itemvalue="Application.ShortestCompletingWord" />
+      <item itemvalue="Application.Tree2Str" />
+      <item itemvalue="Application.FindMedianSortedArrays" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KeyboradWord" />
-        <item itemvalue="Application.WinNim" />
-        <item itemvalue="Application.SelfDivisor" />
-        <item itemvalue="Application.TheOnlyMorseCode" />
-        <item itemvalue="Application.ReversalImage" />
+        <item itemvalue="Application.FindMedianSortedArrays" />
+        <item itemvalue="Application.Tree2Str" />
+        <item itemvalue="Application.ShortestCompletingWord" />
+        <item itemvalue="Application.NumberOfBoomerangs" />
+        <item itemvalue="Application.NumSpecialEquivGroups" />
       </list>
     </recent_temporary>
   </component>
@@ -281,18 +333,29 @@
       <workItem from="1541156640105" duration="7495000" />
       <workItem from="1541469335202" duration="596000" />
       <workItem from="1541681438987" duration="8000" />
+      <workItem from="1542890151106" duration="39000" />
+      <workItem from="1543371288415" duration="3857000" />
+      <workItem from="1543455455273" duration="3770000" />
+      <workItem from="1544059145648" duration="1382000" />
+      <workItem from="1544152903956" duration="3287000" />
+      <workItem from="1544930430854" duration="1823000" />
+      <workItem from="1545012242524" duration="1444000" />
+      <workItem from="1545037758487" duration="15000" />
+      <workItem from="1545483690075" duration="28000" />
+      <workItem from="1545485810001" duration="234000" />
+      <workItem from="1545520713707" duration="818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57640000" />
+    <option name="totallyTimeSpent" value="74337000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="241" y="15" width="1318" height="1018" extended-state="0" />
+    <frame x="346" y="2" width="1534" height="1023" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.29185867" />
-      <window_info id="Structure" order="1" sideWeight="0.50179213" side_tool="true" weight="0.29185867" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15141957" visible="true" weight="0.17666233" />
+      <window_info id="Structure" order="1" sideWeight="0.8485804" side_tool="true" weight="0.29646698" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -300,8 +363,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35185185" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37448558" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25438598" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35873017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -309,7 +372,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3281893" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3280757" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -319,13 +383,29 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/IsToeplitzMatrix.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumberOfBoomerangs.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/top/daoyang/Main.java" />
@@ -358,13 +438,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/Stack.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/ValidBrackets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -372,20 +446,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="140" column="22" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="1232" column="22" selection-start-line="1232" selection-start-column="22" selection-end-line="1232" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/Collections.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/MaxSubListSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -400,24 +462,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="1962" selection-start-line="1962" selection-end-line="1962" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/Sqrt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/TreeMaxDeepinLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -512,13 +561,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/KeyboradWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/KeyboradWord.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -530,6 +573,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/SortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/IsToeplitzMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/CountPrimeSetBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumSpecialEquivGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/lang/StrictMath.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/lang/Math.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/NumberOfBoomerangs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/ShortestToChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/LinkedList.java" />
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/ShortestCompletingWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/TreeMaxDeepinLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/easy/Tree2Str.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/daoyang/tencent/FindMedianSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>

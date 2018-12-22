@@ -2,6 +2,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LongestPalindrome",
+            "request": "launch",
+            "mainClass": "top.daoyang.tencent.LongestPalindrome",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShortestCompletingWord",
+            "request": "launch",
+            "mainClass": "top.daoyang.easy.ShortestCompletingWord",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConvertBST",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.easy.ConvertBST",
+            "args": "",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GenerateMatrix",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.middle.GenerateMatrix",
+            "args": "",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsToeplitzMatrix",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.easy.IsToeplitzMatrix",
+            "args": "",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RecentCounter",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.easy.RecentCounter",
+            "args": "",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - YangHuiTriangle",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.easy.YangHuiTriangle",
+            "args": "",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubdomainVisits",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.easy.SubdomainVisits",
+            "args": "",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortedArrayToBST",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "top.daoyang.easy.SortedArrayToBST",
+            "args": "",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NumberOfLines",
             "request": "launch",
             "cwd": "${workspaceFolder}",
