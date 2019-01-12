@@ -23,7 +23,7 @@ public class IsToeplitzMatrix {
                     return false;
             }
         }
-        
+    
         return flag;
     }
     

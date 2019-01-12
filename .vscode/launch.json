@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "top.daoyang.tencent.linkedlist.AddTwoNumbers",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpiralOrder",
+            "request": "launch",
+            "mainClass": "top.daoyang.tencent.SpiralOrder",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "top.daoyang.tencent.ContainsDuplicate",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProductExceptSelf",
+            "request": "launch",
+            "mainClass": "top.daoyang.tencent.ProductExceptSelf",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "top.daoyang.tencent.RemoveDuplicates",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LongestPalindrome",
             "request": "launch",
             "mainClass": "top.daoyang.tencent.LongestPalindrome",
